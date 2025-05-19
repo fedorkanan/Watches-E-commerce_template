@@ -12,4 +12,4 @@
 <img src='https://github.com/Alikanan-a/Watches-E-commerce_template/blob/main/assets/img/whitScreanShot.png.png' width="500" align="left"> |  <img src='https://github.com/Alikanan-a/Watches-E-commerce_template/blob/main/assets/img/screanshots.png.png' width="500" align="right" margin-bottom ='500'> |
 
 <br/>
-<p align='center'> All rigths reserved To © Ali Kaanan <3  <p/>
+<p align='center'> All rigths reserved To © Fedor Kaanan <3  <p/>
